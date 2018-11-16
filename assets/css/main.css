@@ -1,5 +1,5 @@
 h1, h2, h3, ul, li, p {
-                          padding: 5px 5px 25px 5px;
+                          padding: 5px;
                       }
 
 h1 {
@@ -10,16 +10,19 @@ h1 {
 h2 {
         font-family: 'Catamaran', sans-serif;
         font-size:40px;
+        padding-left: 5vw;
    }
 
 h3 {
         font-family: 'Catamaran', sans-serif;
         font-size:32px;
+        padding-left:10vw;
    }
 
 ul, li, p {
         font-family: 'Catamaran', sans-serif;
         font-size:24px;
+        padding-left: 15vw;
        }
 
 .flex-container {
