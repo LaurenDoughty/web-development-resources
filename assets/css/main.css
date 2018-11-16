@@ -1,3 +1,15 @@
-body  {
+h1 {
+        font-family: 'Quicksand', sans-serif;
+   }
+
+h2 {
+        font-family: 'Acme', sans-serif;
+   }
+
+h3 {
         font-family: 'Asul', sans-serif;
-      }
+   }
+
+ul, li {
+        font-family: 'Catamaran', sans-serif;
+       }
